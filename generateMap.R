@@ -10,6 +10,8 @@ locs = read.delim("locations.txt")
 
 # Merge GIS and incidence
 shpsi = merge(shps, locs, by.x="GEN", by.y="Location")
+# Handle ambiguous names using the NUTS: https://de.wikipedia.org/wiki/NUTS:DE
+shpsi = shpsi[-which(shpsi$nuts !="" & shpsi$nuts != shpsi$NUTS),]
 
 # Plot
 annotation = "GIS: © GeoBasis-DE / BKG 2020"

@@ -1,25 +1,23 @@
-Location
-Staufen im Breisgau
-Staufen im Breisgau
-Staufen im Breisgau
-Bonn
-Bremen
-Düsseldorf
-Amsterdam
-Amsterdam
-Bremen
-Wolfenbüttel
-Rendsburg
-Sao Paulo
-Dortmund
-Dortmund
-Bad Segeberg
-Lensahn
-Ritterhude
-Heilbronn
-Heilbronn
-Hemer
-Peine
-Bad Schwartau
-Bad Schwartau
-Erbach
+Location	nuts
+Staufen im Breisgau	
+Bonn	
+Bremen	
+Düsseldorf	
+Amsterdam	
+Amsterdam	
+Bremen	
+Wolfenbüttel	
+Rendsburg	
+Sao Paulo	
+Dortmund	
+Dortmund	
+Bad Segeberg	
+Lensahn	
+Ritterhude	
+Heilbronn	
+Heilbronn	
+Hemer	
+Peine	
+Bad Schwartau	
+Bad Schwartau	
+Erbach	DE71B
