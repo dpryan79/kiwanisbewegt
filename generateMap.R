@@ -35,4 +35,4 @@ g = g + annotate(geom="text", label=annotation, x=Inf, y=-Inf, hjust=1, vjust=-0
 g = g + geom_sf_text(data=shpsi, label="★", size=9, color=starColor, family = "HiraKakuPro-W3")
 g = g + geom_sf_text(data=shpsc, label="K", size=9, color=starColor)
 #g + geom_sf_text(data=st_jitter(shpsi, factor=0.09), label="★", size=5, color="red", family = "HiraKakuPro-W3")
-ggsave("participants.png", plot=g, width=6, height=6)
+ggsave("participants.png", plot=g, width=5, height=6)
