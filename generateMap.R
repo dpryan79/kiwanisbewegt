@@ -19,13 +19,12 @@ shpsc = merge(shps, clubLocs, by.x="GEN", by.y="Location")
 ambiguous = c(as.character(shpsi$GEN), as.character(shpsc$GEN))[which(duplicated(c(shpsi$GEN, shpsc$GEN)))]
 write.table(ambiguous, file="ambiguous.txt")
 # Handle ambiguous names using the NUTS: https://de.wikipedia.org/wiki/NUTS:DE
-if(length(levels(shpsi$nuts))) {
+if(length(levels(shpsi$nuts)) > 0) {
     shpsi = shpsi[-which(shpsi$nuts !="" & as.character(shpsi$nuts) != shpsi$NUTS),]
 }
-if(length(levels(shpsc$nuts))) {
+if(length(levels(shpsc$nuts)) > 0) {
     shpsc = shpsc[-which(shpsc$nuts !="" & as.character(shpsc$nuts) != shpsc$NUTS),]
 }
-print(shpsc)
 
 # Plot
 annotation = "GIS: © GeoBasis-DE / BKG 2020"
