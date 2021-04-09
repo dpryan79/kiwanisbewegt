@@ -22,9 +22,7 @@ write.table(ambiguous, file="ambiguous.txt")
 if(length(levels(shpsi$nuts)) > 0) {
     shpsi = shpsi[-which(shpsi$nuts !="" & as.character(shpsi$nuts) != shpsi$NUTS),]
 }
-if(length(levels(shpsc$nuts)) > 0) {
-    shpsc = shpsc[-which(shpsc$nuts !="" & as.character(shpsc$nuts) != shpsc$NUTS),]
-}
+shpsc = shpsc[-which(shpsc$nuts !="" & as.character(shpsc$nuts) != shpsc$NUTS),]
 
 # Plot
 annotation = "GIS: © GeoBasis-DE / BKG 2020"
