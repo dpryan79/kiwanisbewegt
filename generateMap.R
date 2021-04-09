@@ -25,6 +25,7 @@ if(length(levels(shpsi$nuts))) {
 if(length(levels(shpsc$nuts))) {
     shpsc = shpsc[-which(shpsc$nuts !="" & as.character(shpsc$nuts) != shpsc$NUTS),]
 }
+print(shpsc)
 
 # Plot
 annotation = "GIS: © GeoBasis-DE / BKG 2020"
