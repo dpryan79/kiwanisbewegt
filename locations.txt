@@ -4,7 +4,6 @@ Bonn
 Bremen	
 Düsseldorf	
 Amsterdam	
-Bremen	
 Wolfenbüttel	
 Rendsburg	
 Sao Paulo	
@@ -20,3 +19,4 @@ Sittensen
 Österreich	
 Langenzenn	
 München	
+Veitsbronn	
