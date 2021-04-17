@@ -2,5 +2,3 @@
 "1" "Amsterdam"
 "2" "Sao Paulo"
 "3" "Österreich"
-"4" "Berlin  "
-"5" "Wittemberg"
