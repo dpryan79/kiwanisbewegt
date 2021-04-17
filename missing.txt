@@ -2,3 +2,7 @@
 "1" "Amsterdam"
 "2" "Sao Paulo"
 "3" "Österreich"
+"4" "Berlin  "
+"5" "Speyer  "
+"6" "Köln  "
+"7" "Wittemberg  "
