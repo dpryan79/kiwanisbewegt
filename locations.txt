@@ -21,6 +21,6 @@ Langenzenn
 München	
 Veitsbronn	
 Berlin  
-Speyer  
-Köln  
-Wittemberg  
+Speyer	
+Köln	
+Wittemberg	
