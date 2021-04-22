@@ -13,7 +13,6 @@ Lensahn
 Ritterhude	
 Heilbronn	
 Hemer	
-Peine	
 Bad Schwartau	
 Sittensen	
 Österreich	
@@ -26,3 +25,4 @@ Köln
 Wittenberg	
 Kulmbach	
 Wiesbaden	
+Ettal	
