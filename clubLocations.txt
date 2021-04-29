@@ -2,3 +2,4 @@ Location	nuts
 Erbach	DE71B
 Peine	
 Speyer	
+Straubing	
