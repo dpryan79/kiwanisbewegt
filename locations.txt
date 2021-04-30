@@ -23,3 +23,5 @@ Wittenberg
 Kulmbach	
 Wiesbaden	
 Ettal	
+Bonn	
+Sittensen	
