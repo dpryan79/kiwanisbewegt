@@ -3,3 +3,5 @@ Erbach	DE71B
 Peine	
 Speyer	
 Straubing	
+Bonn	
+Sittensen	
