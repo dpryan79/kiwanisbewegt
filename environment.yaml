@@ -1,7 +1,7 @@
 name: r40
 channels:
   - conda-forge
-  - conda-forge/labels/broken
+  - conda-forge/label/broken
   - bioconda
   - defaults
 dependencies:
