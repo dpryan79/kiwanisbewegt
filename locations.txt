@@ -1,27 +1,11 @@
 Location	nuts
 Staufen im Breisgau	
-Bremen	
+Leverkusen	
+Bonn	
+Kulmbach	
 Düsseldorf	
+Bremen	
 Amsterdam	
 Wolfenbüttel	
-Rendsburg	
-Sao Paulo	
-Dortmund	
-Bad Segeberg	
-Lensahn	
-Ritterhude	
-Heilbronn	
-Hemer	
-Bad Schwartau	
-Österreich	
 Langenzenn	
-München	
-Veitsbronn	
-Berlin	
-Köln	
-Wittenberg	
-Kulmbach	
 Wiesbaden	
-Ettal	
-Bonn	
-Sittensen	
